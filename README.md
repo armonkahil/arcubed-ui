@@ -27,7 +27,7 @@ Dry-UI is a Material-UI React library based on a theme design from Figma.
 
 #### 🏁 Getting Started 
 
-See our [documentation](https://capless-dry.netlify.app/?path=/story/library-avatars-associated--default) with live editable examples and API documentation.
+See our [documentation](https://upbeat-chandrasekhar-f2e649.netlify.app/) with live editable examples and API documentation.
 
 ##### Prerequisites
 
