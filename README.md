@@ -1,70 +1,97 @@
-# Getting Started with Create React App
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=200px height=200px src="./ARCUBED_logo.png" alt="Project logo"></a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h3 align="center">Welcome to ARCUBED-UI</h3>
 
-## Available Scripts
+<div align="center">
+
+  [![Status](https://img.shields.io/badge/status-active-success.svg)]() [![GitHub Issues](https://img.shields.io/github/issues/armonkahil/arcubed-ui/issues)](https://github.com/armonkahil/arcubed-ui/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/armonkahil/arcubed-ui.svg)](https://github.com/armonkahil/arcubed-ui/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+  <a href="https://codeclimate.com/github/armonkahil/arcubed-ui/maintainability"><img src="https://api.codeclimate.com/v1/badges/30273f66b6179683e67b/maintainability" /></a> <a href="https://codeclimate.com/github/armonkahil/arcubed-ui/test_coverage"><img src="https://api.codeclimate.com/v1/badges/30273f66b6179683e67b/test_coverage" /></a>
+
+</div>
+
+
+<p align="center"><i>A React Library.</i>
+    <br> 
+</p>
+
+---
+<!-- 
+#### 🧐 About
+
+Dry-UI is a Material-UI React library based on a theme design from Figma.
+
+--- -->
+
+#### 🏁 Getting Started 
+
+See our [documentation](https://capless-dry.netlify.app/?path=/story/library-avatars-associated--default) with live editable examples and API documentation.
+
+##### Prerequisites
+
+
+```
+react
+react-dom
+```
+
+##### Installing
+
+```
+npm install arcubed-ui
+or
+yarn install arcubed-ui
+```
+
+
+##### Available Scripts
 
 In the project directory, you can run:
+```
+npm dev
+or
+yarn dev
+```
 
-### `npm start`
+Runs the app in the development mode. Open [http://localhost:3000](http://localhost:3000) to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+npm test
+or
+yarn test
+```
+Launches the test runner in the interactive watch mode. See the [create-react-app](https://create-react-app.dev/)'s section about [running test](https://create-react-app.dev/docs/running-tests) for more information.
+```
+npm build-storybook
+or
+yarn build-storybook
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Builds the app stories.
+```
+npm build-components
+or
+yarn build-components
+```
 
-### `npm test`
+Builds the components design system. It will create a `dist` folder.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+#### 🎈 Usage <a name="usage"></a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+#### ⛏️ Built Using
 
-### `npm run eject`
+- [React](https://reactjs.org/) - A JavaScript library for building user interfaces
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- [NodeJs](https://nodejs.org/en/) - Server Environment
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### ✍️ Author
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [@armonkahil](https://github.com/armonkahil) - Documentation
