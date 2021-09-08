@@ -1,7 +1,7 @@
 // src/components/Button.stories.js
 import React from 'react';
 
-import Button from './Button';
+import Button from './button';
 
 export default {
   title: 'Example/Button',
